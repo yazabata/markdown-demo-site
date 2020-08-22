@@ -29,7 +29,7 @@ Tesla was born on the 10th of July 1856 in Smiljan, Austrian Empire (modern-day 
 ```
 Disclaimer: This site is used to demonstrate Markdown and is not intended to be a comprehensive outline of Nikola Tesla's life. 
 ```
-
+____
 ---
 
 ## At a glance 
